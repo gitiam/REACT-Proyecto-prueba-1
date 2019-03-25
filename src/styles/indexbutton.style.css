@@ -1,0 +1,8 @@
+.index-button{
+	margin-top: 400px;
+	margin-left: 120px;	
+	height: 220px;
+	width: 250px;
+	border: 1px solid black;
+	display: inline-block;
+}
